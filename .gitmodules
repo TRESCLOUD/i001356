@@ -83,3 +83,8 @@
 	path = TRESCLOUD/account-financial-reporting
 	url = git@github.com:TRESCLOUD/account-financial-reporting.git
 	branch = 16.0
+
+[submodule "TRESCLOUD/reporting-engine"]
+	path = TRESCLOUD/reporting-engine
+	url = git@github.com:TRESCLOUD/reporting-engine.git
+	branch = 16.0
